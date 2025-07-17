@@ -53,7 +53,7 @@ My role included:
             <td style="vertical-align:top;">ANZx Product Catalog</td>
             <td style="vertical-align:top;">Model/Configure the ANZX Product Catalog and expose via API</td>
             <td style="vertical-align:top;">
-                Document <a href="https://confluence.service.anz/display/ABT/Architecture+Summary+-+Zafin">Zafin Architecture</a> which includes data, integration and infrastructure views.
+                Document <a href="https://confluence/display/ABT/Architecture+Summary+-+Zafin">Zafin Architecture</a> which includes data, integration and infrastructure views.
             </td>
             <td style="vertical-align:top;">
                 The Zafin model is very verbose and complex which made adoption harder than it probably should.<br><br>
@@ -71,10 +71,10 @@ My role included:
             <td style="vertical-align:top;">Product Data Distribution</td>
             <td style="vertical-align:top;">Distribute Product Catalog to the ANZx constituents</td>
             <td style="vertical-align:top;">
-                Document the <a href="https://confluence.service.anz/display/ABT/001+Product+Distribution">Zafin Architecture Increment</a> which covers how Product Data is shared with <a href="https://what.apps.anz/cap">CAP</a>, Fabric and Stravinsky.<br><br>
-                Document the<a href="https://confluence.service.anz/display/ABT/006+Lightning+Product+Hub"> Lightning Product Hub Architecture Increment</a> which incldues the Lightning Data Model and associated source to target mappings.
+                Document the <a href="https://confluence/display/ABT/001+Product+Distribution">Zafin Architecture Increment</a> which covers how Product Data is shared with <a href="https://what.apps.anz/cap">CAP</a>, Fabric and Stravinsky.<br><br>
+                Document the<a href="https://confluence/display/ABT/006+Lightning+Product+Hub"> Lightning Product Hub Architecture Increment</a> which incldues the Lightning Data Model and associated source to target mappings.
                 <br><br>
-                Got agreement regarding the <a href="https://confluence.service.anz/display/ABT/CPP-053+Product+Synchronisation+Roadmap+Planning">Product Distribution Roadmap</a> justifying the introduction of the Lightning Product Hub.
+                Got agreement regarding the <a href="https://confluence/display/ABT/CPP-053+Product+Synchronisation+Roadmap+Planning">Product Distribution Roadmap</a> justifying the introduction of the Lightning Product Hub.
             </td>
             <td style="vertical-align:top;">
                 The current solution to Product Distribution is transitional as per the Lightning Product Hub Roadmap.<br><br>
@@ -133,8 +133,8 @@ My role included:
             <td style="vertical-align:top;">
             In the past, ANZ has spent big money on needing to Find, Fix and Remediate banking issues and to subsequently compensate impacted customers.<br><br>In support of this process, there is a need to have an authoritative source of product information and detailed knowledge of the end to end processing.<br><br>At ANZx, the Product Manual was the document to be used to collate all the necessary information.<br><br> The creation of this document was commissioned to KPMG.<br><br>Emailing Microsoft word documents was not going to cut it.<br><br>My involvement was very broad with deliverables ranging from:
             <ul>
-                <li>Documenting <a href="https://confluence.service.anz/pages/viewpage.action?pageId=691649940">use case and non-functional requirements</a></li>
-                <li>Building a <a href="https://confluence.service.anz/pages/viewpage.action?pageId=780818484">prototype workflow using Box</a> </li>
+                <li>Documenting <a href="https://confluence/pages/viewpage.action?pageId=691649940">use case and non-functional requirements</a></li>
+                <li>Building a <a href="https://confluence/pages/viewpage.action?pageId=780818484">prototype workflow using Box</a> </li>
                 <li>Architectural assessment of ClauseMatch (halted due to partial Russian ownership)</li>
                 <li>Transition responsibilities across to the <strong>document services</strong> team</li>
             </ul>
@@ -145,19 +145,19 @@ My role included:
             <td style="vertical-align:top;">Mantain Cross Product Architectural Assets.</td>
             <td style="vertical-align:top;">Maintain the following Architectural documents
                 <ul>
-                <li><a href="https://confluence.service.anz/display/ABT/Architecture+Summary+-+Zafin">Zafin Solution Architecture & Design</a> needs updating to reflect new controls framework</li>
-                <li><a href="https://confluence.service.anz/display/ABT/Architecture+Summary+-+Lightning">Lightning  Solution Architecture & Design</a> needs updating to reflect new controls framework</li>
-                <li><a href="https://confluence.service.anz/pages/viewpage.action?pageId=2455944403">CAP Architecture Summary</a> - hand balled to Rick Dowling</li>
-                <li><a href="https://confluence.service.anz/pages/viewpage.action?pageId=864870868">CTM Architecture Summary</a> hand balled to Rick Dowling</li>
-                <li><a href="https://confluence.service.anz/pages/viewpage.action?pageId=864870936">Cross Product Platform ETL Solution Arch & Design (decommissioned)</a> nothing to do here</li>
-                <li><a href="https://confluence.service.anz/pages/viewpage.action?pageId=1161045123">Cross Product Platform Position Paper</a> - Could do with a refresh</li>
-                <li><a href="https://confluence.service.anz/display/ABT/Cross+Product+Platform+-+Technical+Roadmap+-+ANZx+Overall+Architecture">Cross Product Platform Roadmap</a> - last updated Feb 2024, so is probably due for an update</li>
-                <li><a href="https://confluence.service.anz/display/ABT/Cross+Product+Layer+Capabilities">Cross Product Platform Architecure Decision Records</a></li>
-                <li><a href="https://confluence.service.anz/pages/viewpage.action?spaceKey=ABT&title=CPP+Decision+Register">Cross Product Platform Design Decisions</a></li>
+                <li><a href="https://confluence/display/ABT/Architecture+Summary+-+Zafin">Zafin Solution Architecture & Design</a> needs updating to reflect new controls framework</li>
+                <li><a href="https://confluence/display/ABT/Architecture+Summary+-+Lightning">Lightning  Solution Architecture & Design</a> needs updating to reflect new controls framework</li>
+                <li><a href="https://confluence/pages/viewpage.action?pageId=2455944403">CAP Architecture Summary</a> - hand balled to Rick Dowling</li>
+                <li><a href="https://confluence/pages/viewpage.action?pageId=864870868">CTM Architecture Summary</a> hand balled to Rick Dowling</li>
+                <li><a href="https://confluence/pages/viewpage.action?pageId=864870936">Cross Product Platform ETL Solution Arch & Design (decommissioned)</a> nothing to do here</li>
+                <li><a href="https://confluence/pages/viewpage.action?pageId=1161045123">Cross Product Platform Position Paper</a> - Could do with a refresh</li>
+                <li><a href="https://confluence/display/ABT/Cross+Product+Platform+-+Technical+Roadmap+-+ANZx+Overall+Architecture">Cross Product Platform Roadmap</a> - last updated Feb 2024, so is probably due for an update</li>
+                <li><a href="https://confluence/display/ABT/Cross+Product+Layer+Capabilities">Cross Product Platform Architecure Decision Records</a></li>
+                <li><a href="https://confluence/pages/viewpage.action?spaceKey=ABT&title=CPP+Decision+Register">Cross Product Platform Design Decisions</a></li>
                 </ul>
             </td>
             <td style="vertical-align:top;">
-            Not sure where we stand with PAC-001, but the <a href="https://confluence.service.anz/display/ABT/Solution+Overview+-+Peer+review+and+approval">process to review, apply feedback and managing version of the Solution Arch and Design</a> is rather clunky.<br><br>
+            Not sure where we stand with PAC-001, but the <a href="https://confluence/display/ABT/Solution+Overview+-+Peer+review+and+approval">process to review, apply feedback and managing version of the Solution Arch and Design</a> is rather clunky.<br><br>
             It is also not clear just how important the Solution Architecture & Design document is. Over the 5 years I have been keeping these documents up to date, seldom has an initiaitve lead, product owner, security partner or engineering squad ever referenced them or provided direct feedback to them outside the PAC-001 cycle.<br><br>Ok, the security partner may use the <a href="https://what.apps.anz/ild">ILD</a> for preparing a <a href="https://what.apps.anz/sav">SAV</a>, but these ILDs are generally only useful at an increment level.<br><br>
             Personally, I believe everything we need to know about an asset should be in Service Now. All business, application, information and technology views should be version controled with automated policy checking in place to ensure document is fit-for-purpose, aligns with standards, uses approved patterns and most importantly is aligned from a wholistic system perspective.<br><br>
             Personally Business and Technolgy Roadmaps should be data driven and also navigatable from Service Now. In ANZx the Techncial Roadmaps were manufactured in a botton up approach and aligned during the review stage. Feedback received includes the roadmap is too detailed, presented as a laundry list of backlogged jira stories, didn't really paint a picture of where <a href="https://what.apps.anz/cpp">CPP</a> needs to be in 5 years time, what are the gaps, the dependancies with the other roadmaps. Still not sure we have nailed what this needs to look like.
@@ -172,8 +172,8 @@ My role included:
             <td style="vertical-align:top;">Cross Product Situational Controls</td>
             <td style="vertical-align:top;">Automate Controls to support consistency checking between Zafin and ANZ systems.</td>
             <td style="vertical-align:top;">Architect and Data Analyst</td>
-            <td style="vertical-align:top;">Wow, this was an awesome piece of work if I do say myself.<br><br>When I started this gig, there was big talk about how we are delivering a platform which will scale, be reliable, cloud native etc. In the early days of thhe first produtct pilot, Cross Products had people logging into <a href="https://what.apps.anz/cap">CAP</a> and checking how many deposit accounts had been created and that they all looked ok. Every day, for 6 months, we had around 10 control checks being performed manually.<br><br>Check out this <a href="https://confluence.service.anz/display/ABT/CPP+Showcase+Videos?preview=/733737189/802365038/CPP%20CONTROLS.mp4">show case video</a> that Mon put togther which describes the CPP control framework.<br><br>
-            The automation of these validity and consistency checks started off with an <a href="https://confluence.service.anz/display/ABT/CPP-028+Cross+Product+Data+Compliance+Detection">ADR</a> co-authored wth Surjit Rangi (Data Architect at the time) and then worked closely with <a href="https://what.apps.anz/xde">xDE</a> delivery team assigned (primarily as a Data Engineer) to build out the necessary views and rules to automate 6 key situational controls required by the Cross Product Value stream.<br><br>
+            <td style="vertical-align:top;">Wow, this was an awesome piece of work if I do say myself.<br><br>When I started this gig, there was big talk about how we are delivering a platform which will scale, be reliable, cloud native etc. In the early days of thhe first produtct pilot, Cross Products had people logging into <a href="https://what.apps.anz/cap">CAP</a> and checking how many deposit accounts had been created and that they all looked ok. Every day, for 6 months, we had around 10 control checks being performed manually.<br><br>Check out this <a href="https://confluence/display/ABT/CPP+Showcase+Videos?preview=/733737189/802365038/CPP%20CONTROLS.mp4">show case video</a> that Mon put togther which describes the CPP control framework.<br><br>
+            The automation of these validity and consistency checks started off with an <a href="https://confluence/display/ABT/CPP-028+Cross+Product+Data+Compliance+Detection">ADR</a> co-authored wth Surjit Rangi (Data Architect at the time) and then worked closely with <a href="https://what.apps.anz/xde">xDE</a> delivery team assigned (primarily as a Data Engineer) to build out the necessary views and rules to automate 6 key situational controls required by the Cross Product Value stream.<br><br>
             I have learned heaps, which included <a href="https://what.apps.anz/dbt">DBT</a>, BigQuery, Tableau and I wrote thousands of lines of code to build the sql views and associated data quality rules.json.
             <br><br>
             I enjoyed the challenge and opportunity to do this and happy to know that my work contributed to establishment of a solution which is being used across most of the other ANZx Value Streams.
@@ -193,24 +193,24 @@ My role included:
             This gave an end to end processing window of 2 hours. Ample time when everything works as expected, however not much wiggle room if there were any problems encountered along the way.<br><br>
             Given the customer and account data that was required by Zafin was already being delivered to the google platform, a decision was approved to source the necessary data from <a href="https://what.apps.anz/dgcp">dGCP</a>.<br><br>On the surface this seemed reasonable, however it ended up being a bad decision as the service levels provided by <a href="https://what.apps.anz/dgcp">dGCP</a> were not at the level required.<br><br>
             A number of failures were experienced and ultimately the <a href="https://what.apps.anz/etl">ETL</a> jobs were put ice, and a tactial solution was quickly developed by the <a href="https://what.apps.anz/cap">CAP</a> Deposits team which worked for 12 months or more.<br><br> 
-            We were in search of a strategic solution. A couple of ADRs, lots of workshops with Zafin architechts and product representatives and raft of <a href="https://confluence.service.anz/pages/viewpage.action?spaceKey=ABT&title=CPP+Decision+Register">CPP Decisions</a> which was the genesis of the Pricing Service.<br><br>
+            We were in search of a strategic solution. A couple of ADRs, lots of workshops with Zafin architechts and product representatives and raft of <a href="https://confluence/pages/viewpage.action?spaceKey=ABT&title=CPP+Decision+Register">CPP Decisions</a> which was the genesis of the Pricing Service.<br><br>
             At the time, the Cross Product Platform Value Stream did not have ANZx type engineering capability. Stuff got done based on jira epics and managing many overloaded delivery partners. It always seemed a lot harder than it needed to be.<br><br>
             In response to this, the Lightning squad was formed things changed immediately. Personally I felt we are now building something, rather than raising/managing jira tickets. We transformed from being <a href="https://en.wikipedia.org/wiki/The_Chicken_and_the_Pig">chickens to pigs</a>. <br><br>
             Long story short, Lightning is real and helping deliver product and pricing services requried by the ANZx ecosystem, including the Pricing Service which syncronises Lending Accounts and Subscriptions (see below for more) wth Zafin.<br><br>
-            I am immensely proud of my contribution to this point and helping shape <a href="https://confluence.service.anz/display/ABT/11.4.1+Multi-Price+Products+to+enable+Personalised+Pricing">negotiated/personalised pricing</a> to meet future pricing capability<br><br>
+            I am immensely proud of my contribution to this point and helping shape <a href="https://confluence/display/ABT/11.4.1+Multi-Price+Products+to+enable+Personalised+Pricing">negotiated/personalised pricing</a> to meet future pricing capability<br><br>
             An awesome part of the discovery work for this service inclduded working with Khanin to model and execute the pricing service. The objective if this work was to help set SLO expectations, and influence the design of the pricing service.<br><br>
-            See the following <a href="https://confluence.service.anz/display/ABT/Discendi+Tempus+%28Learning+time%29+Talks#:~:text=David%20Anderson-,Process%20Mining%20and%20Predictive%20Simulation,-Process%20mining%20is">Discendi Tempus</a> presentation using Apromore. The huge learning here is that the Zafin contractual SLO of less than 1 second, 90% of the time over a 30 minute window introduces risk that a customer user expeience can be impacted due to high volumes with an unreliable network endpoint.  
+            See the following <a href="https://confluence/display/ABT/Discendi+Tempus+%28Learning+time%29+Talks#:~:text=David%20Anderson-,Process%20Mining%20and%20Predictive%20Simulation,-Process%20mining%20is">Discendi Tempus</a> presentation using Apromore. The huge learning here is that the Zafin contractual SLO of less than 1 second, 90% of the time over a 30 minute window introduces risk that a customer user expeience can be impacted due to high volumes with an unreliable network endpoint.  
             </td>
         </tr>
         <tr>
             <td style="vertical-align:top;">Offers & Rewards</td>
             <td style="vertical-align:top;">How to attract and engage customers</td>
             <td style="vertical-align:top;">Architect</td>
-            <td style="vertical-align:top;">The <a href="https://confluence.service.anz/display/ABT/002+Lightning+Offers+Service">Offer service</a> was an early service built and delivered by Lightning and involved socialising an architecture and the associated <a href="https://confluence.service.anz/display/ABT/Welcome+Rate+Delivery+View">delivery view</a> with parties from Zafin, Lightning, Mulesoft, Stravinsky, <a href="https://what.apps.anz/cap">CAP</a>, APIMesh and Cosmos. I call out this diagram, as it was one of my first Gliffy diagrams using Layers. How to do layers was a gift from Bob, which has been passed on to others. So many thanks Bob.<br><br>
+            <td style="vertical-align:top;">The <a href="https://confluence/display/ABT/002+Lightning+Offers+Service">Offer service</a> was an early service built and delivered by Lightning and involved socialising an architecture and the associated <a href="https://confluence/display/ABT/Welcome+Rate+Delivery+View">delivery view</a> with parties from Zafin, Lightning, Mulesoft, Stravinsky, <a href="https://what.apps.anz/cap">CAP</a>, APIMesh and Cosmos. I call out this diagram, as it was one of my first Gliffy diagrams using Layers. How to do layers was a gift from Bob, which has been passed on to others. So many thanks Bob.<br><br>
             The Offer Service and <a href="https://what.apps.anz/cap">CAP</a>'s Campaign capabilities became the enabler for the qualified saving product.<br><br>
             The Offer Service built does have a number of technical debts items associated with it. Things like it eligibility checks are coded in the service and not driven off Zafin config, does not yet support joint applications, and does not support multiple offers for a product. So it is likely uplift would be required to support credit card offers.<br><br>
             Refer-A-Friend was an interesting usecase which tested which Valaue Stream owns the offers and rewards capability. The build out of this capability was a set of fabric services which were controls via Zafin Offer configuration and the services were later transfered across to Lightning to manage support and future changes. This architecture was put in place largely by Matt Rankin which leveraged COSMOS provide capabilities to listen for speific events and track whether a customer has met the criteria, as per offer configuration from Zafin, for when a reward payment for the referal is be made.<br><br>
-            The customer take up of this campaign was incredible and really boosted the number of ANZ Plus accounts. It was so popular that the camapign has to be cut short due to the reward payments budget was exhausted. My involvement in delivery was consulting only, however <a href="https://what.apps.anz/cpp">CPP</a> ended up either winning/losing the turf war and I was then tasked with uplifting the <a href="https://confluence.service.anz/display/ABT/003+Lightning+Rewards+Service">Lightning Architecture</a>. 
+            The customer take up of this campaign was incredible and really boosted the number of ANZ Plus accounts. It was so popular that the camapign has to be cut short due to the reward payments budget was exhausted. My involvement in delivery was consulting only, however <a href="https://what.apps.anz/cpp">CPP</a> ended up either winning/losing the turf war and I was then tasked with uplifting the <a href="https://confluence/display/ABT/003+Lightning+Rewards+Service">Lightning Architecture</a>. 
             </td>
         </tr>
         <tr>
@@ -233,7 +233,7 @@ My role included:
             <td style="vertical-align:top;">Provide a Marketable View of products ANZ want to sell to our Customers</td>
             <td style="vertical-align:top;">Architect</td>
             <td style="vertical-align:top;">
-            Support Sandip and Matt Rankin in the build out of the <a href="https://confluence.service.anz/display/ABT/008+Lightning+Product+Store">Lightning Store Service</a> and it's evolution as the Marketing Proposition concept is being introduced into Zafin.<br><br>
+            Support Sandip and Matt Rankin in the build out of the <a href="https://confluence/display/ABT/008+Lightning+Product+Store">Lightning Store Service</a> and it's evolution as the Marketing Proposition concept is being introduced into Zafin.<br><br>
             This work is not without challenges as there are contributors across different delivery partners.<br><br>
             Not sure if there is any further architecture work here, but Kat needs support, Wayne may too, and sometimes Tim requires clarificartion or guidance around where certain things get done. I assume Ginni will be provide this support as required.
             <td>
@@ -297,7 +297,7 @@ These are the prescribed views as per the prescribed ANZx templates and are subj
 
 ```
 
-Here you will find the key views important to <a href="https://confluence.service.anz/display/ABT/CPP+Architecture">CPP Architecture</a>.
+Here you will find the key views important to <a href="https://confluence/display/ABT/CPP+Architecture">CPP Architecture</a>.
 
 <img src="img/cpp-architecture.png" alt="Example of CPP Architecture Landing Page" width="600"/>
 
@@ -323,7 +323,7 @@ Some of my confluence pages I have put together started simple, but overtime hav
 
 I personally this was an awesome result and it was fun to put together. However, not sure how useful it is.
 
-The <a href="https://confluence.service.anz/display/ABT/Lightning+-+Volumetrics"> Lightning Volumetrics</a> page aggregates the volumetrics from each Lighting Service.
+The <a href="https://confluence/display/ABT/Lightning+-+Volumetrics"> Lightning Volumetrics</a> page aggregates the volumetrics from each Lighting Service.
 
 <img src="img/lightning-volumetrics.png" alt="Lightning Volumetrics" width="600"/>
 
@@ -337,12 +337,12 @@ Clicking thru to a service showss the use cases volumes and associated assumptio
 
 ##### 4.1.4.2 Assets of Interest to CPP
 
-The context view found in <a href="https://confluence.service.anz/display/ABT/009+Lightning+support+for+ANZx+Credit+Cards">009 Lightning support for ANZx Credit Cards</a> includes a table of systems where th description and link to the architecture (be it in confluence/backstage) are sourced from <a href="https://confluence.service.anz/display/ABT/Assets+of+Interest+to+Cross+Product+Platform">Assets of Interest to Cross Product Platform</a>
+The context view found in <a href="https://confluence/display/ABT/009+Lightning+support+for+ANZx+Credit+Cards">009 Lightning support for ANZx Credit Cards</a> includes a table of systems where th description and link to the architecture (be it in confluence/backstage) are sourced from <a href="https://confluence/display/ABT/Assets+of+Interest+to+Cross+Product+Platform">Assets of Interest to Cross Product Platform</a>
 
 
 ##### 4.1.4.3 CPP Definitions
 
-The <a href="https://confluence.service.anz/display/ABT/Cross+Product+Conceptual+Data+Model">Cross Product Conceptual Data Model</a> sources defintion for concepts from <a href="https://confluence.service.anz/display/ABT/CPP+Definitions">CPP Definitions</a> which ideally is managed by Matt's team.
+The <a href="https://confluence/display/ABT/Cross+Product+Conceptual+Data+Model">Cross Product Conceptual Data Model</a> sources defintion for concepts from <a href="https://confluence/display/ABT/CPP+Definitions">CPP Definitions</a> which ideally is managed by Matt's team.
 
 ### 4.2 Plantuml Diagrams
 <p>
